@@ -3,14 +3,16 @@
 # Description 
 matlab.vim is a vim script which aims to easy to edit matlab.vim scripts,the 
 **Features** cotains as following:
+
     1. keywords highlight (common words,not all)
     2. Automatic alignment
     3. Check syntax error
     4. Tag support
     5. jump matching groups
+
 However, I am a just a porter, this script is made by someone in matlab forum.
 
-**it only for linuxer!**
+**It only for linuxer!**
 
 ## How to install it ?
 if you you are using **vundle** , you could add following to vundle configure in
